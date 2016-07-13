@@ -1,0 +1,24 @@
+{
+  "name": "react-native-boot",
+  "version": "0.0.1",
+  "description": "React Native Framework similar to Spring Boot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenCHS/react-native-boot.git"
+  },
+  "keywords": [
+    "react-native",
+    "spring",
+    "boot"
+  ],
+  "author": "OpenCHS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenCHS/react-native-boot/issues"
+  },
+  "homepage": "https://github.com/OpenCHS/react-native-boot#readme"
+}
